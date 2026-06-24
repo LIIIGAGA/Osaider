@@ -4,3 +4,11 @@ Saved/
 DerivedDataCache/
 .vs/
 *.sln
+
+Plugins/HoudiniEngine/
+Plugins/UnrealMCP/
+
+_mcp_setup/
+Backup/
+UpgradeLog.htm
+*.log
