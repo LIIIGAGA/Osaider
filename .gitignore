@@ -8,6 +8,9 @@ DerivedDataCache/
 Plugins/HoudiniEngine/
 Plugins/UnrealMCP/
 
+Content/Blender_Model/SSLModel/Library/BlackBlocks_Cache/
+Content/Houdini/Cache/
+
 _mcp_setup/
 Backup/
 UpgradeLog.htm
